@@ -11,7 +11,9 @@ public class Test5Application {
 		String name = "Sara";
 		int x =500;
 		boolean isPresent = false;
+		int y =400;
 		int z = 200;
+
 		SpringApplication.run(Test5Application.class, args);
 	}
 
