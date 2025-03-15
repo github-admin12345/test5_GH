@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test5Application {
 
 	public static void main(String[] args) {
+
+		String name = "Sara";
 		int x =500;
+		
 		SpringApplication.run(Test5Application.class, args);
 	}
 
