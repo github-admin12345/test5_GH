@@ -10,6 +10,8 @@ public class Test5Application {
 
 		String name = "Sara";
 		int x =500;
+		boolean isPresent = false;
+
 		SpringApplication.run(Test5Application.class, args);
 	}
 
